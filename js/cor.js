@@ -187,8 +187,8 @@ switch (cor) {
     document.fgColor='#ffffff'
     break;
   case ('azul marinho'):
-    document.bgColor='#0981d1'
-    document.write('#0981d1')
+    document.bgColor='#1e3f5a'
+    document.write('#1e3f5a')
     document.fgColor='#ffffff'
     break;
   default:
