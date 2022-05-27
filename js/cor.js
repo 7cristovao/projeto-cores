@@ -186,6 +186,11 @@ switch (cor) {
     document.write('#722f37')
     document.fgColor='#ffffff'
     break;
+  case ('azul marinho'):
+    document.bgColor='#0981d1'
+    document.write('#0981d1')
+    document.fgColor='#ffffff'
+    break;
   default:
     document.write(`Vc digitou ${cor}. '<br>' Essa cor não está na lista, '<br>' digite uma cor existente`)
 }
